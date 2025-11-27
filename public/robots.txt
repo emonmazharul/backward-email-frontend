@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /login
+Disallow: /profile
+Disallow: /
+
+Allow: /privacy
+Allow: /terms
+
+Sitemap: https://backwardemail.email/sitemap.xml
